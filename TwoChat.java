@@ -1,4 +1,3 @@
-package ProPro;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -141,3 +140,4 @@ public class TwoChat extends javax.swing.JFrame {
         }
     };
 }
+
